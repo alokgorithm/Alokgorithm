@@ -29,25 +29,9 @@
 
 </div>
 
----
-
-```yaml
-name: Alok Nath
-located_in: India
-education: MCA @ NIT Kurukshetra (2024-2027)
-
-achievements:
-  - 🦈 Aurora Hackathon — Top 20 Finalist (Shark Tank-style)
-  - 👥 Committee Head, Mexperts Society — 200+ participants
-  - 📜 IBM Data Analyst • DataCamp Analyst • Google AI Essentials
-
-currently:
-  building: Cross-platform apps with React + Tauri + Capacitor
-  exploring: ML pipelines with Python, XGBoost & ONNX Runtime
-  open_to: Collaboration & Opportunities
-```
 
 ---
+
 
 <div align="center">
 
