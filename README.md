@@ -1,64 +1,107 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alok%20Nath&fontSize=60&fontAlignY=35&desc=Full%20Stack%20|%20AI%2FML%20|%20MCA%20%40%20NIT%20Kurukshetra&descAlignY=55&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Alok%20Nath&fontSize=55&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20MCA%20%40%20NIT%20Kurukshetra&descAlignY=52&descSize=16&fontColor=58a6ff&descColor=8b949e&animation=fadeIn)
 
-<img src="portrait.gif" alt="Animated Pixel Portrait" width="240" height="300" style="border-radius:12px; margin: 15px 0;">
+<img src="portrait.gif" alt="Pixel Art Portrait" width="320">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cross-Platform+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E2%9A%A1+Building+cross-platform+apps;%F0%9F%A4%96+Crafting+ML+pipelines+%7C+Open+to+opportunities)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alokgorithm&color=58a6ff&style=flat-square)
+<a href="https://github.com/alokgorithm"><img src="https://komarev.com/ghpvc/?username=alokgorithm&color=1a1b27&style=flat-square&label=Profile+Views" alt="Profile Views"></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/alokgorithm"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="mailto:alokgorithm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+```yaml
+name: Alok Nath
+located_in: India
+education: MCA @ NIT Kurukshetra (2024-2027)
 
-- 🎓 MCA @ **NIT Kurukshetra** (2024–2027)
-- 🦈 **Aurora Hackathon Top 20 Finalist**
-- ⚡ Building cross-platform apps with React + Tauri + Capacitor
-- 🤖 Crafting ML pipelines with Python, XGBoost & ONNX Runtime
-- 📍 India · Open to opportunities
+achievements:
+  - 🦈 Aurora Hackathon — Top 20 Finalist (Shark Tank-style)
+  - 👥 Committee Head, Mexperts Society — 200+ participants
+  - 📜 IBM Data Analyst • DataCamp Analyst • Google AI Essentials
 
----
+currently:
+  building: Cross-platform apps with React + Tauri + Capacitor
+  exploring: ML pipelines with Python, XGBoost & ONNX Runtime
+  open_to: Collaboration & Opportunities
+```
 
-## 🛠 Tech Stack
+<br>
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+**Frontend & Cross-Platform**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Redis](https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**ML & Tools**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alokgorithm&show_icons=true&theme=github_dark&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgorithm&layout=compact&theme=github_dark&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=alokgorithm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats">
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgorithm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokgorithm&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokgorithm&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Activity Graph" width="95%">
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokgorithm&theme=github-dark-blue&hide_border=true">
-</div>
+<br>
 
----
+<div align="center">
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/alokgorithm/alokgorithm/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alokgorithm/Alokgorithm/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://github.com/alokgorithm/Alokgorithm/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
----
-
-<div align="center">
-<i>Let's connect and build something amazing together!</i>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alokgorithm)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokgorithm@gmail.com)
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%">
+
+</div>

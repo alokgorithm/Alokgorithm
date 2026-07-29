@@ -1,0 +1,10 @@
+# Local development files
+alok_github_profile_readme.html
+index.html
+generate_gif.py
+photo_b64.txt
+photo_large_b64.txt
+photo_thumb_b64.txt
+ChatGPT Image *.png
+*.pyc
+__pycache__/
