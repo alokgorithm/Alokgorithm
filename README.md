@@ -12,7 +12,7 @@
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%E2%9A%A1+Building+cross-platform+apps+with+React+%2B+Tauri+%2B+Capacitor;%F0%9F%A4%96+Crafting+ML+pipelines+with+Python%2C+XGBoost+%26+ONNX;%F0%9F%93%9D+MCA+%40+NIT+Kurukshetra+%7C+Open+to+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%E2%9A%A1+Full+Stack+Developer+%26+AI%2FML+Builder;%F0%9F%A4%96+Building+React%2C+Tauri+%26+Python+ML+Pipelines;%F0%9F%8E%93+MCA+Student+%40+NIT+Kurukshetra+(2024-2027);%F0%9F%93%9D+Open+to+Collaboration+%26+Opportunities)](https://git.io/typing-svg)
 
 <a href="https://github.com/alokgorithm"><img src="https://komarev.com/ghpvc/?username=alokgorithm&color=1a1b27&style=flat-square&label=Profile+Views" alt="Profile Views"></a>
 
