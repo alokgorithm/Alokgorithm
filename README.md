@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alok%20Nath&fontSize=60&fontAlignY=35&desc=Full%20Stack%20|%20AI%2FML%20|%20MCA%20%40%20NIT%20Kurukshetra&descAlignY=55&animation=twinkling)
 
+<img src="portrait.gif" alt="Animated Pixel Portrait" width="240" height="300" style="border-radius:12px; margin: 15px 0;">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cross-Platform+Builder)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alokgorithm&color=58a6ff&style=flat-square)
