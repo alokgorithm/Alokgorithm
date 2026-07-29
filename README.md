@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alokgorithm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alokgorithm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats">
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokgorithm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages">
 
