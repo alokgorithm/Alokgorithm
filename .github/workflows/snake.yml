@@ -5,18 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: alokgorithm
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58a6ff&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
+          outputs: dist/github-contribution-grid-snake-dark.svg
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
