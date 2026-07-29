@@ -15,16 +15,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%9A%A1+Building+cross-platform+apps+with+React+%2B+Tauri;%F0%9F%A4%96+Crafting+ML+pipelines+%7C+Open+to+opportunities)](https://git.io/typing-svg)
 
 <a href="https://github.com/alokgorithm"><img src="https://komarev.com/ghpvc/?username=alokgorithm&color=1a1b27&style=flat-square&label=Profile+Views" alt="Profile Views"></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/alokgorithm"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;&nbsp;
-<a href="mailto:alokgorithm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
@@ -43,7 +37,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -59,13 +53,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=alokgorithm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alokgorithm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" alt="GitHub Stats">
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgorithm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=alokgorithm&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokgorithm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages">
 
 <br><br>
 
@@ -84,7 +74,10 @@
 
 <i>Let's connect and build something amazing together!</i>
 
+<br><br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alokgorithm)
+&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokgorithm@gmail.com)
 
 </div>

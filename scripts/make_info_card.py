@@ -8,7 +8,7 @@ def main():
     root = Path(__file__).resolve().parent.parent
     out_file = root / "info-card.svg"
 
-    svg = """<svg xmlns="http://www.w3.org/2000/svg" width="490" height="310" viewBox="0 0 490 310">
+    svg = """<svg xmlns="http://www.w3.org/2000/svg" width="500" height="370" viewBox="0 0 500 370">
   <defs>
     <style>
       @keyframes fadeSlide {
@@ -22,48 +22,52 @@ def main():
       .head { fill: #58a6ff; font-weight: bold; font-size: 14px; }
       .sep { fill: #30363d; }
       .ln { opacity: 0; animation: fadeSlide 0.4s ease-out forwards; }
-      .l1  { animation-delay: 0.2s; }
-      .l2  { animation-delay: 0.35s; }
-      .l3  { animation-delay: 0.5s; }
-      .l4  { animation-delay: 0.65s; }
-      .l5  { animation-delay: 0.8s; }
-      .l6  { animation-delay: 0.95s; }
-      .l7  { animation-delay: 1.1s; }
-      .l8  { animation-delay: 1.25s; }
-      .l9  { animation-delay: 1.4s; }
-      .l10 { animation-delay: 1.55s; }
-      .l11 { animation-delay: 1.7s; }
-      .colors { opacity: 0; animation: fadeSlide 0.4s ease-out forwards; animation-delay: 1.85s; }
+      .l1  { animation-delay: 0.15s; }
+      .l2  { animation-delay: 0.25s; }
+      .l3  { animation-delay: 0.35s; }
+      .l4  { animation-delay: 0.45s; }
+      .l5  { animation-delay: 0.55s; }
+      .l6  { animation-delay: 0.65s; }
+      .l7  { animation-delay: 0.75s; }
+      .l8  { animation-delay: 0.85s; }
+      .l9  { animation-delay: 0.95s; }
+      .l10 { animation-delay: 1.05s; }
+      .l11 { animation-delay: 1.15s; }
+      .l12 { animation-delay: 1.25s; }
+      .l13 { animation-delay: 1.35s; }
+      .colors { opacity: 0; animation: fadeSlide 0.4s ease-out forwards; animation-delay: 1.50s; }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect width="490" height="310" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect width="500" height="370" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
   <!-- Title bar chrome -->
   <circle cx="15" cy="15" r="5" fill="#ff5f57"/>
   <circle cx="30" cy="15" r="5" fill="#febc2e"/>
   <circle cx="45" cy="15" r="5" fill="#28c840"/>
-  <text x="245" y="19" class="tb" text-anchor="middle">alok@github: ~$ neofetch</text>
-  <line x1="0" y1="30" x2="490" y2="30" stroke="#30363d" stroke-width="1"/>
+  <text x="250" y="19" class="tb" text-anchor="middle">alok@github: ~$ neofetch --profile</text>
+  <line x1="0" y1="30" x2="500" y2="30" stroke="#30363d" stroke-width="1"/>
 
   <!-- Content -->
-  <g transform="translate(20, 55)" class="tt">
+  <g transform="translate(20, 52)" class="tt">
     <text y="0" class="head ln l1">alok@github</text>
     <text y="16" class="sep ln l2">─────────────────────────</text>
 
-    <text y="40" class="ln l3"><tspan class="key">Name       </tspan><tspan class="val"> Alok Nath</tspan></text>
-    <text y="60" class="ln l4"><tspan class="key">Education  </tspan><tspan class="val"> MCA @ NIT Kurukshetra (2024-27)</tspan></text>
-    <text y="80" class="ln l5"><tspan class="key">Role       </tspan><tspan class="val"> Full Stack Developer</tspan></text>
-    <text y="100" class="ln l6"><tspan class="key">Stack      </tspan><tspan class="val"> React · TypeScript · Python · Tauri</tspan></text>
-    <text y="120" class="ln l7"><tspan class="key">ML/Data    </tspan><tspan class="val"> XGBoost · ONNX · Pandas · FastAPI</tspan></text>
-    <text y="140" class="ln l8"><tspan class="key">Achievement</tspan><tspan class="val"> Aurora Hackathon — Top 20 Finalist</tspan></text>
-    <text y="160" class="ln l9"><tspan class="key">Certs      </tspan><tspan class="val"> IBM · DataCamp · Google AI</tspan></text>
-    <text y="180" class="ln l10"><tspan class="key">Location   </tspan><tspan class="val"> India 📍</tspan></text>
-    <text y="200" class="ln l11"><tspan class="key">Status     </tspan><tspan class="val"> Open to Opportunities ✦</tspan></text>
+    <text y="38" class="ln l3"><tspan class="key">Name       </tspan><tspan class="val"> Alok Nath (alokgorithm)</tspan></text>
+    <text y="58" class="ln l4"><tspan class="key">Education  </tspan><tspan class="val"> MCA @ NIT Kurukshetra (2024-27)</tspan></text>
+    <text y="78" class="ln l5"><tspan class="key">Role       </tspan><tspan class="val"> Full Stack Developer &amp; AI/ML Builder</tspan></text>
+    <text y="98" class="ln l6"><tspan class="key">Frontend   </tspan><tspan class="val"> React · TypeScript · Tailwind · Capacitor</tspan></text>
+    <text y="118" class="ln l7"><tspan class="key">Backend    </tspan><tspan class="val"> Python · Node.js · FastAPI · Redis · Mongo</tspan></text>
+    <text y="138" class="ln l8"><tspan class="key">Desktop/ML </tspan><tspan class="val"> Tauri · XGBoost · ONNX · Pandas</tspan></text>
+    <text y="158" class="ln l9"><tspan class="key">Achievement</tspan><tspan class="val"> Aurora Hackathon — Top 20 Finalist</tspan></text>
+    <text y="178" class="ln l10"><tspan class="key">Leadership </tspan><tspan class="val"> Committee Head, Mexperts Society</tspan></text>
+    <text y="198" class="ln l11"><tspan class="key">Certs      </tspan><tspan class="val"> IBM Data Analyst · DataCamp · Google AI</tspan></text>
+    <text y="218" class="ln l12"><tspan class="key">Location   </tspan><tspan class="val"> India 📍</tspan></text>
+    <text y="238" class="ln l13"><tspan class="key">Status     </tspan><tspan class="val"> Open to Opportunities ✦</tspan></text>
 
     <!-- Color blocks -->
-    <g transform="translate(0, 225)" class="colors">
+    <g transform="translate(0, 262)" class="colors">
       <rect x="0"   y="0" width="14" height="14" rx="2" fill="#ff5f57"/>
       <rect x="18"  y="0" width="14" height="14" rx="2" fill="#febc2e"/>
       <rect x="36"  y="0" width="14" height="14" rx="2" fill="#28c840"/>
@@ -78,7 +82,6 @@ def main():
 
     out_file.write_text(svg, encoding="utf-8")
     print(f"Info card -> {out_file}")
-
 
 if __name__ == "__main__":
     main()
