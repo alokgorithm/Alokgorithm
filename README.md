@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════ TERMINAL SECTION ═══════════════ -->
-
-<h3><code>alok@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
 <h3><code>alok@github ~ $ whoami</code></h3>
 <table>
   <tr>
