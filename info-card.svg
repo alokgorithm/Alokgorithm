@@ -1,36 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="370" viewBox="0 0 500 370">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380">
   <defs>
     <style>
       @keyframes fadeSlide {
         from { opacity: 0; transform: translateX(-8px); }
         to   { opacity: 1; transform: translateX(0); }
       }
-      .tt { font-family: Consolas, 'Courier New', monospace; font-size: 13px; fill: #c9d1d9; }
+      .tt { font-family: Consolas, 'Courier New', monospace; font-size: 13px; }
       .tb { font-family: Consolas, 'Courier New', monospace; font-size: 12px; fill: #8b949e; }
       .key { fill: #58a6ff; font-weight: bold; }
       .val { fill: #c9d1d9; }
       .head { fill: #58a6ff; font-weight: bold; font-size: 14px; }
       .sep { fill: #30363d; }
       .ln { opacity: 0; animation: fadeSlide 0.4s ease-out forwards; }
-      .l1  { animation-delay: 0.15s; }
-      .l2  { animation-delay: 0.25s; }
-      .l3  { animation-delay: 0.35s; }
-      .l4  { animation-delay: 0.45s; }
-      .l5  { animation-delay: 0.55s; }
-      .l6  { animation-delay: 0.65s; }
-      .l7  { animation-delay: 0.75s; }
-      .l8  { animation-delay: 0.85s; }
-      .l9  { animation-delay: 0.95s; }
-      .l10 { animation-delay: 1.05s; }
-      .l11 { animation-delay: 1.15s; }
-      .l12 { animation-delay: 1.25s; }
-      .l13 { animation-delay: 1.35s; }
-      .colors { opacity: 0; animation: fadeSlide 0.4s ease-out forwards; animation-delay: 1.50s; }
+      .l1  { animation-delay: 0.10s; }
+      .l2  { animation-delay: 0.18s; }
+      .l3  { animation-delay: 0.26s; }
+      .l4  { animation-delay: 0.34s; }
+      .l5  { animation-delay: 0.42s; }
+      .l6  { animation-delay: 0.50s; }
+      .l7  { animation-delay: 0.58s; }
+      .l8  { animation-delay: 0.66s; }
+      .l9  { animation-delay: 0.74s; }
+      .l10 { animation-delay: 0.82s; }
+      .l11 { animation-delay: 0.90s; }
+      .l12 { animation-delay: 0.98s; }
+      .l13 { animation-delay: 1.06s; }
+      .l14 { animation-delay: 1.14s; }
+      .colors { opacity: 0; animation: fadeSlide 0.4s ease-out forwards; animation-delay: 1.25s; }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect width="500" height="370" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect width="500" height="380" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
   <!-- Title bar chrome -->
   <circle cx="15" cy="15" r="5" fill="#ff5f57"/>
@@ -42,22 +43,24 @@
   <!-- Content -->
   <g transform="translate(20, 52)" class="tt">
     <text y="0" class="head ln l1">alok@github</text>
-    <text y="16" class="sep ln l2">─────────────────────────</text>
+    <text y="16" class="sep ln l2">─────────────────────────────────────────────────</text>
 
-    <text y="38" class="ln l3"><tspan class="key">Name       </tspan><tspan class="val"> Alok Nath (alokgorithm)</tspan></text>
-    <text y="58" class="ln l4"><tspan class="key">Education  </tspan><tspan class="val"> MCA @ NIT Kurukshetra (2024-27)</tspan></text>
-    <text y="78" class="ln l5"><tspan class="key">Role       </tspan><tspan class="val"> Full Stack Developer &amp; AI/ML Builder</tspan></text>
-    <text y="98" class="ln l6"><tspan class="key">Frontend   </tspan><tspan class="val"> React · TypeScript · Tailwind · Capacitor</tspan></text>
-    <text y="118" class="ln l7"><tspan class="key">Backend    </tspan><tspan class="val"> Python · Node.js · FastAPI · Redis · Mongo</tspan></text>
-    <text y="138" class="ln l8"><tspan class="key">Desktop/ML </tspan><tspan class="val"> Tauri · XGBoost · ONNX · Pandas</tspan></text>
-    <text y="158" class="ln l9"><tspan class="key">Achievement</tspan><tspan class="val"> Aurora Hackathon — Top 20 Finalist</tspan></text>
-    <text y="178" class="ln l10"><tspan class="key">Leadership </tspan><tspan class="val"> Committee Head, Mexperts Society</tspan></text>
-    <text y="198" class="ln l11"><tspan class="key">Certs      </tspan><tspan class="val"> IBM Data Analyst · DataCamp · Google AI</tspan></text>
-    <text y="218" class="ln l12"><tspan class="key">Location   </tspan><tspan class="val"> India 📍</tspan></text>
-    <text y="238" class="ln l13"><tspan class="key">Status     </tspan><tspan class="val"> Open to Opportunities ✦</tspan></text>
+    <!-- Column aligned key/value rows -->
+    <text y="38" class="ln l3"><tspan x="0" class="key">Name</tspan><tspan x="110" class="val">Alok Nath</tspan></text>
+    <text y="58" class="ln l4"><tspan x="0" class="key">Username</tspan><tspan x="110" class="val">alokgorithm</tspan></text>
+    <text y="78" class="ln l5"><tspan x="0" class="key">Education</tspan><tspan x="110" class="val">MCA @ NIT Kurukshetra (2024-27)</tspan></text>
+    <text y="98" class="ln l6"><tspan x="0" class="key">Role</tspan><tspan x="110" class="val">Full Stack Developer &amp; AI/ML Builder</tspan></text>
+    <text y="118" class="ln l7"><tspan x="0" class="key">Frontend</tspan><tspan x="110" class="val">React · TypeScript · Tailwind · Capacitor</tspan></text>
+    <text y="138" class="ln l8"><tspan x="0" class="key">Backend</tspan><tspan x="110" class="val">Python · Node.js · FastAPI · Redis · Mongo</tspan></text>
+    <text y="158" class="ln l9"><tspan x="0" class="key">Desktop/ML</tspan><tspan x="110" class="val">Tauri · XGBoost · ONNX · Pandas</tspan></text>
+    <text y="178" class="ln l10"><tspan x="0" class="key">Achievement</tspan><tspan x="110" class="val">Aurora Hackathon — Top 20 Finalist</tspan></text>
+    <text y="198" class="ln l11"><tspan x="0" class="key">Leadership</tspan><tspan x="110" class="val">Committee Head, Mexperts Society</tspan></text>
+    <text y="218" class="ln l12"><tspan x="0" class="key">Certs</tspan><tspan x="110" class="val">IBM Data Analyst · DataCamp · Google AI</tspan></text>
+    <text y="238" class="ln l13"><tspan x="0" class="key">Location</tspan><tspan x="110" class="val">India 📍</tspan></text>
+    <text y="258" class="ln l14"><tspan x="0" class="key">Status</tspan><tspan x="110" class="val">Open to Opportunities ✦</tspan></text>
 
     <!-- Color blocks -->
-    <g transform="translate(0, 262)" class="colors">
+    <g transform="translate(0, 282)" class="colors">
       <rect x="0"   y="0" width="14" height="14" rx="2" fill="#ff5f57"/>
       <rect x="18"  y="0" width="14" height="14" rx="2" fill="#febc2e"/>
       <rect x="36"  y="0" width="14" height="14" rx="2" fill="#28c840"/>
