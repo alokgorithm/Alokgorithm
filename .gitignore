@@ -1,10 +1,13 @@
-# Local development files
+# Local files — not needed in the repo
+ChatGPT Image *.png
+source-prepped.png
+portrait.gif
+generate_gif.py
 alok_github_profile_readme.html
 index.html
-generate_gif.py
 photo_b64.txt
 photo_large_b64.txt
 photo_thumb_b64.txt
-ChatGPT Image *.png
 *.pyc
 __pycache__/
+.venv/
